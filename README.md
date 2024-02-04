@@ -1,4 +1,23 @@
 # Library Management System
+## Overview
+Welcome to the Library Management System (LMS)! This system is designed to streamline the management of library resources, user accounts, and book transactions. Below, you'll find information on how to use various features and important statistics to monitor the system's performance.
+
+## Table of Contents
+- [User Account Management](#user-account-management)
+- [Login](#login)
+- [Forgot Password](#forgot-password)
+- [Statistics](#statistics)
+- [Book Management](#book-management)
+- [Borrowing and Returning](#borrowing-and-returning)
+
+## Getting Started
+To get started with the Library Management System, follow these steps:
+
+1. Clone the repository: `git clone https://github.com/your-username/library-management-system.git`
+2. Install dependencies: `npm install` or `yarn install`
+3. Set up the database with provided scripts.
+4. Configure environment variables (if applicable).
+5. Run the application: `npm start` or `yarn start`
 
 ## User Account Management
 ## Login
@@ -89,4 +108,10 @@ To return a book:
 
 
 ![return_book1](https://github.com/Apache-ghost/Library_System/assets/125418589/b360a626-7ff6-4bf0-ba68-759b0b0f366a)
+
+## Usage
+Detailed instructions on using each feature and functionality can be found in the respective sections of this README. Please follow the guidelines to make the most out of the Library Management System.
+
+## License
+This project is licensed under the [MIT License](LICENSE.md).
 
