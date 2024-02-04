@@ -50,6 +50,21 @@ Adding a new book is simple:
 
 ![adding_book](https://github.com/Apache-ghost/Library_System/assets/125418589/15620d97-7d5d-40a1-89fd-ada078e70179)
 
+
+## Statistics
+
+### User and Book Data Metrics
+Track the following statistics for comprehensive insights:
+
+- Total Number of Registered Users
+- Active Users 
+- Total Number of Books in the Catalog
+- Books Borrowed and Returned This Month
+- The password to have access to the statistics is "ICTU"
+
+  ![statistics](https://github.com/Apache-ghost/Library_System/assets/125418589/e0272731-513c-4677-bb7f-36d7fa6d2189)
+
+
 ## Borrowing and Returning
 
 ### 1. Borrow a Book
